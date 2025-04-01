@@ -1,0 +1,1603 @@
+C:\Users\84359\source\repos\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.exe.config
+C:\Users\84359\source\repos\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.exe
+C:\Users\84359\source\repos\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.pdb
+C:\Users\84359\source\repos\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.dll
+C:\Users\84359\source\repos\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\84359\source\repos\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.xml
+C:\Users\84359\source\repos\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\84359\source\repos\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.AssemblyReference.cache
+C:\Users\84359\source\repos\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Properties.Resources.resources
+C:\Users\84359\source\repos\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.GenerateResource.cache
+C:\Users\84359\source\repos\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.CoreCompileInputs.cache
+C:\Users\84359\source\repos\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.CopyComplete
+C:\Users\84359\source\repos\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.exe
+C:\Users\84359\source\repos\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.pdb
+C:\Users\84359\source\repos\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\84359\source\repos\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\84359\source\repos\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmHopDong.resources
+C:\Users\84359\source\repos\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Form1.resources
+C:\Users\84359\source\repos\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmThemKhachHang.resources
+C:\Users\84359\source\repos\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.thembang.resources
+C:\Users\84359\source\repos\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmXe.resources
+C:\Users\84359\source\repos\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChonXe.resources
+C:\Users\84359\source\repos\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.suatrangthaikieubool.resources
+C:\Users\84359\source\repos\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.themlinkanhvaoxe.resources
+C:\Users\84359\source\repos\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.sualink2.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\14-4\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.exe.config
+C:\Users\Yod\Desktop\MASSIVE PROJECT\14-4\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.exe
+C:\Users\Yod\Desktop\MASSIVE PROJECT\14-4\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\14-4\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\14-4\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\14-4\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\14-4\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.xml
+C:\Users\Yod\Desktop\MASSIVE PROJECT\14-4\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yod\Desktop\MASSIVE PROJECT\14-4\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.AssemblyReference.cache
+C:\Users\Yod\Desktop\MASSIVE PROJECT\14-4\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Form1.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\14-4\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChonXe.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\14-4\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmHopDong.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\14-4\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmThemKhachHang.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\14-4\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmXe.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\14-4\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.thembang.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\14-4\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.suatrangthaikieubool.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\14-4\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.themlinkanhvaoxe.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\14-4\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.sualink2.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\14-4\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Properties.Resources.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\14-4\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.GenerateResource.cache
+C:\Users\Yod\Desktop\MASSIVE PROJECT\14-4\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.CoreCompileInputs.cache
+C:\Users\Yod\Desktop\MASSIVE PROJECT\14-4\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.CopyComplete
+C:\Users\Yod\Desktop\MASSIVE PROJECT\14-4\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.exe
+C:\Users\Yod\Desktop\MASSIVE PROJECT\14-4\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\14-4\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\14-4\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\14-4\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\14-4\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\14-4\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\14-4\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\14-4\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\14-4\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\14-4\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmMenu.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\14-4\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmDangKy.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\14-4\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmDangNhap.resources
+C:\Users\84359\Desktop\Tuan5\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.exe.config
+C:\Users\84359\Desktop\Tuan5\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.exe
+C:\Users\84359\Desktop\Tuan5\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.pdb
+C:\Users\84359\Desktop\Tuan5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\Users\84359\Desktop\Tuan5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\84359\Desktop\Tuan5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\84359\Desktop\Tuan5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\84359\Desktop\Tuan5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\84359\Desktop\Tuan5\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.dll
+C:\Users\84359\Desktop\Tuan5\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\84359\Desktop\Tuan5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\84359\Desktop\Tuan5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\84359\Desktop\Tuan5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\84359\Desktop\Tuan5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\84359\Desktop\Tuan5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\84359\Desktop\Tuan5\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.xml
+C:\Users\84359\Desktop\Tuan5\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\84359\Desktop\Tuan5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.AssemblyReference.cache
+C:\Users\84359\Desktop\Tuan5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Form1.resources
+C:\Users\84359\Desktop\Tuan5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChonXe.resources
+C:\Users\84359\Desktop\Tuan5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmDangKy.resources
+C:\Users\84359\Desktop\Tuan5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmDangNhap.resources
+C:\Users\84359\Desktop\Tuan5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmHopDong.resources
+C:\Users\84359\Desktop\Tuan5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmThemKhachHang.resources
+C:\Users\84359\Desktop\Tuan5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmXe.resources
+C:\Users\84359\Desktop\Tuan5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmMenu.resources
+C:\Users\84359\Desktop\Tuan5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Properties.Resources.resources
+C:\Users\84359\Desktop\Tuan5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.GenerateResource.cache
+C:\Users\84359\Desktop\Tuan5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.CoreCompileInputs.cache
+C:\Users\84359\Desktop\Tuan5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.CopyComplete
+C:\Users\84359\Desktop\Tuan5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.exe
+C:\Users\84359\Desktop\Tuan5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\Tuan5\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.exe.config
+C:\Users\Yod\Desktop\MASSIVE PROJECT\Tuan5\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.exe
+C:\Users\Yod\Desktop\MASSIVE PROJECT\Tuan5\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\Tuan5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\Tuan5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\Tuan5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\Tuan5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\Tuan5\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\Tuan5\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\Tuan5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\Tuan5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\Tuan5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\Tuan5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\Tuan5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\Tuan5\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.xml
+C:\Users\Yod\Desktop\MASSIVE PROJECT\Tuan5\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yod\Desktop\MASSIVE PROJECT\Tuan5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.AssemblyReference.cache
+C:\Users\Yod\Desktop\MASSIVE PROJECT\Tuan5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Form1.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\Tuan5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChonXe.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\Tuan5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmDangKy.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\Tuan5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmDangNhap.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\Tuan5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmHopDong.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\Tuan5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmThemKhachHang.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\Tuan5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmXe.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\Tuan5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmMenu.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\Tuan5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.thembang.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\Tuan5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.suatrangthaikieubool.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\Tuan5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.themlinkanhvaoxe.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\Tuan5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.sualink2.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\Tuan5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.suabangxethemkey.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\Tuan5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.suabangxexoakey.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\Tuan5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Properties.Resources.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\Tuan5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.GenerateResource.cache
+C:\Users\Yod\Desktop\MASSIVE PROJECT\Tuan5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.CoreCompileInputs.cache
+C:\Users\Yod\Desktop\MASSIVE PROJECT\Tuan5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.CopyComplete
+C:\Users\Yod\Desktop\MASSIVE PROJECT\Tuan5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.exe
+C:\Users\Yod\Desktop\MASSIVE PROJECT\Tuan5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.pdb
+C:\Users\84359\Desktop\Tuan5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.xoadbthemlai.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\2-5\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.exe.config
+C:\Users\Yod\Desktop\MASSIVE PROJECT\2-5\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.exe
+C:\Users\Yod\Desktop\MASSIVE PROJECT\2-5\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\2-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\2-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\2-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\2-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\2-5\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\2-5\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\2-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\2-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\2-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\2-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\2-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\2-5\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.xml
+C:\Users\Yod\Desktop\MASSIVE PROJECT\2-5\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yod\Desktop\MASSIVE PROJECT\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.AssemblyReference.cache
+C:\Users\Yod\Desktop\MASSIVE PROJECT\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Form1.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChonXe.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmDangKy.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmDangNhap.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmHopDong.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmThemKhachHang.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmXe.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmMenu.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.xoadbthemlai.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Properties.Resources.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.GenerateResource.cache
+C:\Users\Yod\Desktop\MASSIVE PROJECT\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.CoreCompileInputs.cache
+C:\Users\Yod\Desktop\MASSIVE PROJECT\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.CopyComplete
+C:\Users\Yod\Desktop\MASSIVE PROJECT\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.exe
+C:\Users\Yod\Desktop\MASSIVE PROJECT\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.themdbtaikhoan.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.suadb.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.addmkchonvremovetaikhoan.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmMenu2.resources
+C:\Users\84359\Desktop\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.exe.config
+C:\Users\84359\Desktop\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.exe
+C:\Users\84359\Desktop\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.pdb
+C:\Users\84359\Desktop\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.dll
+C:\Users\84359\Desktop\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\84359\Desktop\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\84359\Desktop\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\84359\Desktop\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\84359\Desktop\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\84359\Desktop\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\84359\Desktop\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.xml
+C:\Users\84359\Desktop\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\84359\Desktop\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.AssemblyReference.cache
+C:\Users\84359\Desktop\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Form1.resources
+C:\Users\84359\Desktop\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChonXe.resources
+C:\Users\84359\Desktop\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmDangKy.resources
+C:\Users\84359\Desktop\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmDangNhap.resources
+C:\Users\84359\Desktop\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmHopDong.resources
+C:\Users\84359\Desktop\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmMenu2.resources
+C:\Users\84359\Desktop\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmThemKhachHang.resources
+C:\Users\84359\Desktop\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmXe.resources
+C:\Users\84359\Desktop\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmMenu.resources
+C:\Users\84359\Desktop\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Properties.Resources.resources
+C:\Users\84359\Desktop\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.GenerateResource.cache
+C:\Users\84359\Desktop\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.CoreCompileInputs.cache
+C:\Users\84359\Desktop\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.CopyComplete
+C:\Users\84359\Desktop\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.exe
+C:\Users\84359\Desktop\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.pdb
+C:\Users\84359\Desktop\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.suabangidnvthanhsonguyen.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.exe.config
+C:\Users\Yod\Desktop\MASSIVE PROJECT\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.exe
+C:\Users\Yod\Desktop\MASSIVE PROJECT\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.xml
+C:\Users\Yod\Desktop\MASSIVE PROJECT\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yod\Desktop\MASSIVE PROJECT\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.AssemblyReference.cache
+C:\Users\Yod\Desktop\MASSIVE PROJECT\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Form1.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChonXe.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmDangKy.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmDangNhap.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmHopDong.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmMenu2.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmThemKhachHang.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmXe.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmMenu.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.suabangidnvthanhsonguyen.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Properties.Resources.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.GenerateResource.cache
+C:\Users\Yod\Desktop\MASSIVE PROJECT\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.CoreCompileInputs.cache
+C:\Users\Yod\Desktop\MASSIVE PROJECT\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.CopyComplete
+C:\Users\Yod\Desktop\MASSIVE PROJECT\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.exe
+C:\Users\Yod\Desktop\MASSIVE PROJECT\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.pdb
+C:\Users\84359\Desktop\fix\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.exe.config
+C:\Users\84359\Desktop\fix\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.exe
+C:\Users\84359\Desktop\fix\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.pdb
+C:\Users\84359\Desktop\fix\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.dll
+C:\Users\84359\Desktop\fix\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\84359\Desktop\fix\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\84359\Desktop\fix\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\84359\Desktop\fix\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\84359\Desktop\fix\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\84359\Desktop\fix\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\84359\Desktop\fix\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.xml
+C:\Users\84359\Desktop\fix\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\84359\Desktop\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.AssemblyReference.cache
+C:\Users\84359\Desktop\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Form1.resources
+C:\Users\84359\Desktop\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChonXe.resources
+C:\Users\84359\Desktop\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmDangKy.resources
+C:\Users\84359\Desktop\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmDangNhap.resources
+C:\Users\84359\Desktop\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmHopDong.resources
+C:\Users\84359\Desktop\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmMenu2.resources
+C:\Users\84359\Desktop\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmThemKhachHang.resources
+C:\Users\84359\Desktop\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmXe.resources
+C:\Users\84359\Desktop\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmMenu.resources
+C:\Users\84359\Desktop\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.suabangidnvthanhsonguyen.resources
+C:\Users\84359\Desktop\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Properties.Resources.resources
+C:\Users\84359\Desktop\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.GenerateResource.cache
+C:\Users\84359\Desktop\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.CoreCompileInputs.cache
+C:\Users\84359\Desktop\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.CopyComplete
+C:\Users\84359\Desktop\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.exe
+C:\Users\84359\Desktop\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.pdb
+C:\Users\84359\Desktop\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.suabangkh.resources
+C:\Users\84359\Desktop\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.suabangcthd.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (2)\fix\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.exe.config
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (2)\fix\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.exe
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (2)\fix\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (2)\fix\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (2)\fix\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (2)\fix\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (2)\fix\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (2)\fix\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (2)\fix\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (2)\fix\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (2)\fix\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.xml
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (2)\fix\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (2)\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.AssemblyReference.cache
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (2)\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Form1.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (2)\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChonXe.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (2)\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmDangKy.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (2)\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmDangNhap.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (2)\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmHopDong.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (2)\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmMenu2.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (2)\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmThemKhachHang.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (2)\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmXe.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (2)\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmMenu.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (2)\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.suabangidnvthanhsonguyen.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (2)\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.suabangkh.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (2)\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.suabangcthd.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (2)\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Properties.Resources.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (2)\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.GenerateResource.cache
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (2)\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.CoreCompileInputs.cache
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (2)\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.CopyComplete
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (2)\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.exe
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (2)\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (2)\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.ass.resources
+C:\Users\84359\Desktop\New folder\fix\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.exe.config
+C:\Users\84359\Desktop\New folder\fix\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.exe
+C:\Users\84359\Desktop\New folder\fix\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.pdb
+C:\Users\84359\Desktop\New folder\fix\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.dll
+C:\Users\84359\Desktop\New folder\fix\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\84359\Desktop\New folder\fix\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\84359\Desktop\New folder\fix\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\84359\Desktop\New folder\fix\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\84359\Desktop\New folder\fix\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\84359\Desktop\New folder\fix\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\84359\Desktop\New folder\fix\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.xml
+C:\Users\84359\Desktop\New folder\fix\3-5\2-5\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\84359\Desktop\New folder\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.AssemblyReference.cache
+C:\Users\84359\Desktop\New folder\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Form1.resources
+C:\Users\84359\Desktop\New folder\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChonXe.resources
+C:\Users\84359\Desktop\New folder\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmDangKy.resources
+C:\Users\84359\Desktop\New folder\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmDangNhap.resources
+C:\Users\84359\Desktop\New folder\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmHopDong.resources
+C:\Users\84359\Desktop\New folder\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmMenu2.resources
+C:\Users\84359\Desktop\New folder\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmThemKhachHang.resources
+C:\Users\84359\Desktop\New folder\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmXe.resources
+C:\Users\84359\Desktop\New folder\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmMenu.resources
+C:\Users\84359\Desktop\New folder\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.suabangidnvthanhsonguyen.resources
+C:\Users\84359\Desktop\New folder\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.suabangkh.resources
+C:\Users\84359\Desktop\New folder\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.suabangcthd.resources
+C:\Users\84359\Desktop\New folder\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.ass.resources
+C:\Users\84359\Desktop\New folder\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Properties.Resources.resources
+C:\Users\84359\Desktop\New folder\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.GenerateResource.cache
+C:\Users\84359\Desktop\New folder\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.CoreCompileInputs.cache
+C:\Users\84359\Desktop\New folder\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.CopyComplete
+C:\Users\84359\Desktop\New folder\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.exe
+C:\Users\84359\Desktop\New folder\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.pdb
+C:\Users\84359\Desktop\New folder\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChiTietHopDong.resources
+C:\Users\84359\Desktop\New folder\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.themtienthue.resources
+C:\Users\84359\Desktop\New folder\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.themgiathue.resources
+C:\Users\84359\Desktop\New folder\fix\3-5\2-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.themdatetime.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\5-5\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.exe.config
+C:\Users\Yod\Desktop\MASSIVE PROJECT\5-5\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.exe
+C:\Users\Yod\Desktop\MASSIVE PROJECT\5-5\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\5-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\5-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\5-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\5-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\5-5\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\5-5\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\5-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\5-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\5-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\5-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\5-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\5-5\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.xml
+C:\Users\Yod\Desktop\MASSIVE PROJECT\5-5\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yod\Desktop\MASSIVE PROJECT\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.AssemblyReference.cache
+C:\Users\Yod\Desktop\MASSIVE PROJECT\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Form1.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChiTietHopDong.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChonXe.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmDangKy.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmDangNhap.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmHopDong.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmMenu2.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmThemKhachHang.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmXe.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmMenu.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.suabangidnvthanhsonguyen.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.suabangkh.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.suabangcthd.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.ass.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.themtienthue.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.themgiathue.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.themdatetime.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Properties.Resources.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.GenerateResource.cache
+C:\Users\Yod\Desktop\MASSIVE PROJECT\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.CoreCompileInputs.cache
+C:\Users\Yod\Desktop\MASSIVE PROJECT\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.CopyComplete
+C:\Users\Yod\Desktop\MASSIVE PROJECT\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.exe
+C:\Users\Yod\Desktop\MASSIVE PROJECT\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.pdb
+C:\Users\84359\Desktop\MoiNhat\5-5\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.exe.config
+C:\Users\84359\Desktop\MoiNhat\5-5\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.exe
+C:\Users\84359\Desktop\MoiNhat\5-5\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.pdb
+C:\Users\84359\Desktop\MoiNhat\5-5\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.dll
+C:\Users\84359\Desktop\MoiNhat\5-5\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\84359\Desktop\MoiNhat\5-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\84359\Desktop\MoiNhat\5-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\84359\Desktop\MoiNhat\5-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\84359\Desktop\MoiNhat\5-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\84359\Desktop\MoiNhat\5-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\84359\Desktop\MoiNhat\5-5\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.xml
+C:\Users\84359\Desktop\MoiNhat\5-5\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\84359\Desktop\MoiNhat\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.AssemblyReference.cache
+C:\Users\84359\Desktop\MoiNhat\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Form1.resources
+C:\Users\84359\Desktop\MoiNhat\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChiTietHopDong.resources
+C:\Users\84359\Desktop\MoiNhat\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChonXe.resources
+C:\Users\84359\Desktop\MoiNhat\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmDangKy.resources
+C:\Users\84359\Desktop\MoiNhat\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmDangNhap.resources
+C:\Users\84359\Desktop\MoiNhat\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmHopDong.resources
+C:\Users\84359\Desktop\MoiNhat\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmMenu2.resources
+C:\Users\84359\Desktop\MoiNhat\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmThemKhachHang.resources
+C:\Users\84359\Desktop\MoiNhat\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmXe.resources
+C:\Users\84359\Desktop\MoiNhat\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmMenu.resources
+C:\Users\84359\Desktop\MoiNhat\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Properties.Resources.resources
+C:\Users\84359\Desktop\MoiNhat\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.GenerateResource.cache
+C:\Users\84359\Desktop\MoiNhat\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.CoreCompileInputs.cache
+C:\Users\84359\Desktop\MoiNhat\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.CopyComplete
+C:\Users\84359\Desktop\MoiNhat\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.exe
+C:\Users\84359\Desktop\MoiNhat\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.pdb
+C:\Users\84359\Desktop\MoiNhat\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmThanhToan.resources
+C:\Users\84359\Desktop\MoiNhat\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.themlai.resources
+C:\Users\84359\Desktop\MoiNhat\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.themlai2.resources
+C:\Users\84359\Desktop\MoiNhat\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.them3.resources
+C:\Users\84359\Desktop\MoiNhat\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.them4.resources
+C:\Users\84359\Desktop\MoiNhat\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.them5.resources
+C:\Users\84359\Desktop\MoiNhat\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.them6.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (3)\5-5\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.exe.config
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (3)\5-5\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.exe
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (3)\5-5\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (3)\5-5\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (3)\5-5\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (3)\5-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (3)\5-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (3)\5-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (3)\5-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (3)\5-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (3)\5-5\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.xml
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (3)\5-5\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (3)\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.AssemblyReference.cache
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (3)\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Form1.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (3)\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChiTietHopDong.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (3)\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChonXe.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (3)\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmDangKy.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (3)\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmDangNhap.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (3)\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmHopDong.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (3)\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmMenu2.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (3)\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmThanhToan.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (3)\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmThemKhachHang.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (3)\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmXe.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (3)\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmMenu.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (3)\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.themlai.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (3)\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.themlai2.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (3)\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.them3.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (3)\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.them4.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (3)\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.them5.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (3)\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.them6.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (3)\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Properties.Resources.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (3)\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.GenerateResource.cache
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (3)\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.CoreCompileInputs.cache
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (3)\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.CopyComplete
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (3)\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.exe
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (3)\5-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.pdb
+C:\Users\84359\Desktop\12-5\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.exe.config
+C:\Users\84359\Desktop\12-5\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.exe
+C:\Users\84359\Desktop\12-5\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.pdb
+C:\Users\84359\Desktop\12-5\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.dll
+C:\Users\84359\Desktop\12-5\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\84359\Desktop\12-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\84359\Desktop\12-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\84359\Desktop\12-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\84359\Desktop\12-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\84359\Desktop\12-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\84359\Desktop\12-5\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.xml
+C:\Users\84359\Desktop\12-5\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\84359\Desktop\12-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.AssemblyReference.cache
+C:\Users\84359\Desktop\12-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Form1.resources
+C:\Users\84359\Desktop\12-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChiTietHopDong.resources
+C:\Users\84359\Desktop\12-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChonXe.resources
+C:\Users\84359\Desktop\12-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmDangKy.resources
+C:\Users\84359\Desktop\12-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmDangNhap.resources
+C:\Users\84359\Desktop\12-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmHoaDon.resources
+C:\Users\84359\Desktop\12-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmHopDong.resources
+C:\Users\84359\Desktop\12-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmMenu2.resources
+C:\Users\84359\Desktop\12-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmNhanVien.resources
+C:\Users\84359\Desktop\12-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmQuanLyCa.resources
+C:\Users\84359\Desktop\12-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmThanhToan.resources
+C:\Users\84359\Desktop\12-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmThemKhachHang.resources
+C:\Users\84359\Desktop\12-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmXe.resources
+C:\Users\84359\Desktop\12-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmMenu.resources
+C:\Users\84359\Desktop\12-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Properties.Resources.resources
+C:\Users\84359\Desktop\12-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.GenerateResource.cache
+C:\Users\84359\Desktop\12-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.CoreCompileInputs.cache
+C:\Users\84359\Desktop\12-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.CopyComplete
+C:\Users\84359\Desktop\12-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.exe
+C:\Users\84359\Desktop\12-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.pdb
+C:\Users\84359\Desktop\12-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.thembang.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (4)\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.exe.config
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (4)\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.exe
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (4)\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (4)\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (4)\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (4)\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (4)\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (4)\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (4)\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (4)\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (4)\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (4)\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (4)\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (4)\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (4)\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.xml
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (4)\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (4)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.AssemblyReference.cache
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (4)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Form1.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (4)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChiTietHopDong.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (4)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChonXe.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (4)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmDangKy.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (4)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmDangNhap.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (4)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmHoaDon.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (4)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmHopDong.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (4)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmMenu2.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (4)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmNhanVien.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (4)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmQuanLyCa.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (4)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmThanhToan.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (4)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmThemKhachHang.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (4)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmXe.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (4)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmMenu.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (4)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Properties.Resources.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (4)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.GenerateResource.cache
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (4)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.CoreCompileInputs.cache
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (4)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.CopyComplete
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (4)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.exe
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (4)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (4)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.themlaidb.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (4)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.themclv.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (4)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.addluong.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (4)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.addluong1.resources
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.exe.config
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.exe
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.pdb
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.xml
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Form1.resources
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChiTietHopDong.resources
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChonXe.resources
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmDangKy.resources
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmDangNhap.resources
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmHoaDon.resources
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmHopDong.resources
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmMenu2.resources
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmNhanVien.resources
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmQuanLyCa.resources
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmThanhToan.resources
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmThemKhachHang.resources
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmXe.resources
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmMenu.resources
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Properties.Resources.resources
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.GenerateResource.cache
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.CoreCompileInputs.cache
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.CopyComplete
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.exe
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.pdb
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChiTietHoaDon.resources
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\Guna.UI2.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmTinhTrangXe.resources
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmXeHu.resources
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmXuLySuCo.resources
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\Aspose.Words.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\In\mau-hop-dong-thue-xe.docx
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmXuatHopDong.resources
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\EnvDTE.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\stdole.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.MSXML.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmRpHoaDon.resources
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\obj\Debug\RdlCompile.cache
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\obj\Debug\RdlCompile.compiled
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\bin\Debug\rptHoaDon.rdlc
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.AssemblyReference.cache
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.themdb.resources
+C:\Users\84359\Desktop\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmMenuMoi.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\In\mau-hop-dong-thue-xe.docx
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\rptHoaDon.rdlc
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.exe.config
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.exe
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\EnvDTE.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\stdole.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.xml
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.AssemblyReference.cache
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Form1.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChiTietHoaDon.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChiTietHopDong.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChonXe.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmDangKy.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmDangNhap.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmHoaDon.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmHopDong.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmMenu2.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmMeNu3.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmMenuMoi.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmNhanVien.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmQuanLyCa.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmRpHoaDon.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmThanhToan.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmThemKhachHang.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmTinhTrangXe.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmXe.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmMenu.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmXeHu.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmXuatHopDong.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmXuLySuCo.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.themdb.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Properties.Resources.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.GenerateResource.cache
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.CoreCompileInputs.cache
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.CopyComplete
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.exe
+C:\Users\Yod\Desktop\MASSIVE PROJECT\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.pdb
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\In\mau-hop-dong-thue-xe.docx
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\rptHoaDon.rdlc
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.exe.config
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.exe
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.pdb
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\EnvDTE.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\stdole.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.MSXML.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.xml
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Form1.resources
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChiTietHoaDon.resources
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChiTietHopDong.resources
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChonXe.resources
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmDangKy.resources
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmDangNhap.resources
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmHoaDon.resources
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmHopDong.resources
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmMenu2.resources
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmMeNu3.resources
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmMenuMoi.resources
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmNhanVien.resources
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmQuanLyCa.resources
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmRpHoaDon.resources
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmThanhToan.resources
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmThemKhachHang.resources
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmTinhTrangXe.resources
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmXe.resources
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmMenu.resources
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmXuatHopDong.resources
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmXuLySuCo.resources
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.themdb.resources
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Properties.Resources.resources
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.GenerateResource.cache
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\obj\Debug\RdlCompile.cache
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\obj\Debug\RdlCompile.compiled
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.CoreCompileInputs.cache
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.CopyComplete
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.exe
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.pdb
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.themtienphatvaocthoadon.resources
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmRpHoaDonPhatTien.resources
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.themchitietphieuphat.resources
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.themchitietphieuphat2.resources
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.xoaxepp.resources
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.themchitietphieuphat3.resources
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.themchitietphieuphat3xoatg.resources
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChiTietPhieuPhat.resources
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.themtongtienphieuphat.resources
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.suakieuTienct.resources
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.suakieuTienct2.resources
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\bin\Debug\rptHoaDonPhatTien.rdlc
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.AssemblyReference.cache
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.themhoadonphatvacthdp.resources
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmXeDangSua.resources
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.thembangxehong.resources
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.suathuoctinhbangxehong.resources
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.suathuoctinhbangxehong2.resources
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.suathuoctinhbangxehong3.resources
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmPhieuPhat.resources
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmThongKeDoanhThu.resources
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmXemDoanhThu.resources
+C:\Users\84359\Desktop\29-5\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.thembangdoanhthu.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.AssemblyReference.cache
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Form1.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChiTietHoaDon.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChiTietHopDong.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChiTietPhieuPhat.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChonXe.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmDangKy.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmDangNhap.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmHoaDon.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmHopDong.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmMenu2.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmMeNu3.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmMenuMoi.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmNhanVien.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmQuanLyCa.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmRpHoaDon.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmRpHoaDonPhatTien.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmThanhToan.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmThemKhachHang.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmThongKeDoanhThu.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmTinhTrangXe.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmXe.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmMenu.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmXeDangSua.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmPhieuPhat.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmXemDoanhThu.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmXuatHopDong.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmXuLySuCo.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.themdb.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.themtienphatvaocthoadon.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.themchitietphieuphat.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.themchitietphieuphat2.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.xoaxepp.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.themchitietphieuphat3.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.themchitietphieuphat3xoatg.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.themtongtienphieuphat.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.suakieuTienct.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.suakieuTienct2.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.themhoadonphatvacthdp.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.thembangxehong.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.suathuoctinhbangxehong.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.suathuoctinhbangxehong2.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.suathuoctinhbangxehong3.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.thembangdoanhthu.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Properties.Resources.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.GenerateResource.cache
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.CoreCompileInputs.cache
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.exe
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\In\mau-hop-dong-thue-xe.docx
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\rptHoaDon.rdlc
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\rptHoaDonPhatTien.rdlc
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.exe.config
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.exe
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\EnvDTE.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\stdole.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.xml
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.CopyComplete
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\In\mau-hop-dong-thue-xe.docx
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\rptHoaDon.rdlc
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\rptHoaDonPhatTien.rdlc
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.exe.config
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.exe
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.pdb
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\EnvDTE.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\stdole.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.MSXML.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.xml
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.AssemblyReference.cache
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Form1.resources
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChiTietHoaDon.resources
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChiTietHopDong.resources
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChiTietPhieuPhat.resources
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChonXe.resources
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmDangKy.resources
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmDangNhap.resources
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmHoaDon.resources
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmHopDong.resources
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmMenu2.resources
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmMeNu3.resources
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmNhanVien.resources
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmRpHoaDon.resources
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmRpHoaDonPhatTien.resources
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmThemKhachHang.resources
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmThongKeDoanhThu.resources
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmXe.resources
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmXeDangSua.resources
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmPhieuPhat.resources
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmXuatHopDong.resources
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmXuLySuCo.resources
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Properties.Resources.resources
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.GenerateResource.cache
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\RdlCompile.cache
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\RdlCompile.compiled
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.CoreCompileInputs.cache
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.CopyComplete
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.exe
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.pdb
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmThanhToan.resources
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.themmahopdongvaobangcthoadon.resources
+C:\Users\84359\Desktop\DACS_V.2\DOANCOSO_V1\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.suabangcthdp.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\In\mau-hop-dong-thue-xe.docx
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\rptHoaDon.rdlc
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\rptHoaDonPhatTien.rdlc
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.exe.config
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.exe
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\EnvDTE.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\stdole.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.xml
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.AssemblyReference.cache
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Form1.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChiTietHoaDon.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChiTietHopDong.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChiTietPhieuPhat.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChonXe.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmDangKy.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmDangNhap.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmHoaDon.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmHopDong.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmMenu2.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmMeNu3.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmNhanVien.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmRpHoaDon.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmRpHoaDonPhatTien.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmThanhToan.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmThemKhachHang.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmThongKeDoanhThu.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmXe.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmXeDangSua.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmPhieuPhat.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmXuatHopDong.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmXuLySuCo.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.themmahopdongvaobangcthoadon.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.suabangcthdp.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Properties.Resources.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.GenerateResource.cache
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.CoreCompileInputs.cache
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.CopyComplete
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.exe
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChiTietHoaDonPhat.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\cunt\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmHoaDonPhieuPhat.resources
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\In\mau-hop-dong-thue-xe.docx
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\rptHoaDon.rdlc
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\rptHoaDonPhatTien.rdlc
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.exe.config
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.exe
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.pdb
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\EnvDTE.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\stdole.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.MSXML.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.xml
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Form1.resources
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChiTietHoaDon.resources
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChiTietHoaDonPhat.resources
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChiTietHopDong.resources
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChiTietPhieuPhat.resources
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChonXe.resources
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmDangKy.resources
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmDangNhap.resources
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmHoaDon.resources
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmHoaDonPhieuPhat.resources
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmHopDong.resources
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmMenu2.resources
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmMeNu3.resources
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmNhanVien.resources
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmRpHoaDon.resources
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmRpHoaDonPhatTien.resources
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmThemKhachHang.resources
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmThongKeDoanhThu.resources
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmXe.resources
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmXeDangSua.resources
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmPhieuPhat.resources
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmXuLySuCo.resources
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Properties.Resources.resources
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.GenerateResource.cache
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\obj\Debug\RdlCompile.cache
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\obj\Debug\RdlCompile.compiled
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.CoreCompileInputs.cache
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.CopyComplete
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.exe
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.pdb
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmDenHangThanhToan.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\In\mau-hop-dong-thue-xe.docx
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\rptHoaDon.rdlc
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\rptHoaDonPhatTien.rdlc
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.exe.config
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.exe
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\EnvDTE.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\stdole.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.xml
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.AssemblyReference.cache
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Form1.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChiTietHoaDon.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChiTietHoaDonPhat.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChiTietHopDong.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChiTietPhieuPhat.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChonXe.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmDangKy.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmDangNhap.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmDenHangThanhToan.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmHoaDon.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmHoaDonPhieuPhat.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmHopDong.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmMenu2.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmMeNu3.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmNhanVien.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmRpHoaDon.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmRpHoaDonPhatTien.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmThemKhachHang.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmThongKeDoanhThu.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmXe.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmXeDangSua.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmPhieuPhat.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmXuLySuCo.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.themmahopdongvaobangcthoadon.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.suabangcthdp.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.themdatetimebanghopdong.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.ádd.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.themtgbangxehong.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Properties.Resources.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.GenerateResource.cache
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.CoreCompileInputs.cache
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.CopyComplete
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.exe
+C:\Users\Yod\Desktop\MASSIVE PROJECT\New folder (6)\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\In\mau-hop-dong-thue-xe.docx
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\rptHoaDon.rdlc
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\rptHoaDonPhatTien.rdlc
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.exe.config
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.exe
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\EnvDTE.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\stdole.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.xml
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.AssemblyReference.cache
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Form1.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChiTietHoaDon.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChiTietHoaDonPhat.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChiTietHopDong.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChiTietPhieuPhat.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChonXe.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmDangKy.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmDangNhap.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmDenHangThanhToan.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmHoaDon.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmHoaDonPhieuPhat.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmHopDong.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmMenu2.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmMeNu3.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmNhanVien.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmRpHoaDon.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmRpHoaDonPhatTien.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmThemKhachHang.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmThongKeDoanhThu.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmXe.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmXeDangSua.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmPhieuPhat.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmXuLySuCo.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.themmahopdongvaobangcthoadon.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.suabangcthdp.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.themdatetimebanghopdong.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.ádd.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.themtgbangxehong.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Properties.Resources.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.GenerateResource.cache
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.CoreCompileInputs.cache
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.CopyComplete
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.exe
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.pdb
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.AssemblyReference.cache
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.xoaURL.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.xoaSLxe.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.themttbatdaubangHOPDONG.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.themsdtkhtronghd.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmWelcome.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\123SADASD\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmXeHongTrongThang.resources
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmWelcome.resources
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmXeHongTrongThang.resources
+C:\Users\84359\Desktop\danglam\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.addlaidatabase.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\In\mau-hop-dong-thue-xe.docx
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\rptHoaDon.rdlc
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\rptHoaDonPhatTien.rdlc
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.exe.config
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.exe
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\EnvDTE.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\stdole.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.xml
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.AssemblyReference.cache
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Form1.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChiTietHoaDon.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChiTietHoaDonPhat.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChiTietHopDong.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChiTietPhieuPhat.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmChonXe.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmDangKy.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmDangNhap.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmDenHangThanhToan.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmHoaDon.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmHoaDonPhieuPhat.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmHopDong.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmMenu2.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmMeNu3.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmNhanVien.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmRpHoaDon.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmRpHoaDonPhatTien.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmThemKhachHang.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmThongKeDoanhThu.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmWelcome.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmXe.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmXeDangSua.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmPhieuPhat.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmXeHongTrongThang.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.FORMS.frmXuLySuCo.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Migrations.addlaidatabase.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.Properties.Resources.resources
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.GenerateResource.cache
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.CoreCompileInputs.cache
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.csproj.CopyComplete
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.exe
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.pdb
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.exe.manifest
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\bin\Debug\DOANCOSO.application
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.exe.manifest
+C:\Users\Yod\Desktop\MASSIVE PROJECT\FinalFR\DOANCOSO\DOANCOSO\obj\Debug\DOANCOSO.application
