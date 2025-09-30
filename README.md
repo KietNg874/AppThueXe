@@ -1,6 +1,5 @@
 <h1> App Thuê Xe (Car Rental Management Software) </h1>
-<h2> Backend: C#
-Frontend: Windows Form </h2>
+<h2> Backend: C#, Frontend: Windows Form </h2>
 
 
 <h3> Giao diện đăng nhập, đăng ký </h3>
